@@ -1,3 +1,4 @@
+// Pruebas de la placa
 #include <WiFi.h>
 
 const int motor1[2] = {0,0};
